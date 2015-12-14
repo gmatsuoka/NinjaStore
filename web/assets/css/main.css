@@ -1,0 +1,76 @@
+*{
+  padding: 0;
+  margin: 0;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+#main{
+  width: 1000px;
+  margin: 0 auto;
+}
+
+#header{
+  text-align:center;
+  width:100%;
+  margin: 10px 0;
+  border-bottom: 1px solid #000;
+  padding: 0 0 20px 0;
+}
+
+#img-logo{
+  border: 1px solid #cecece;
+  border-radius: 50%;
+  padding: 10px;
+  box-shadow: 5px 5px 5px #cecece;
+  width: 100px;
+  height: 100px;
+}
+
+#header h2{
+  margin: 10px 0;
+}
+
+
+#body{
+  height: 300px;
+}
+
+#mensagem{
+  padding: 100px;
+  text-align: center;
+}
+
+#mensagem a{
+  text-decoration: none;
+}
+
+#logo-mercadolivre{
+    margin: 10px 0;
+}
+
+#footer{
+  border-top: 1px solid #000;
+  padding: 20px 0 0;
+  text-align: center;
+}
+
+#footer ul {
+  text-align: center;
+}
+
+#footer ul li{
+  padding: 5px 0;
+  list-style: none;
+  display: inline-grid;
+  width: 100%;
+}
+
+#footer a {
+  text-decoration: none;
+  color: #000;
+}
+
+#footer img{
+  width: 16px;
+  height: 16px;
+}
